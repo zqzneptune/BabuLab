@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collections | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/tag/collections/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/tag/collections/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collections</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 23 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Collections</title>
+      <link>http://192.157.236.170/BabuLab/tag/collections/</link>
+    </image>
+    
+    <item>
+      <title>Escherichia coli</title>
+      <link>http://192.157.236.170/BabuLab/project/c001/</link>
+      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/c001/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Sequential peptide affinity tagging collection&lt;/li&gt;
+&lt;li&gt;Yellow fluorescent protein tagging collection&lt;/li&gt;
+&lt;li&gt;GFP free over expression collection with histidine tag&lt;/li&gt;
+&lt;li&gt;F-Single gene deletion knockout collection&lt;/li&gt;
+&lt;li&gt;Hfr gene deletion knockout collection&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Saccharomyces Cerevisiae</title>
+      <link>http://192.157.236.170/BabuLab/project/c002/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/c002/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Tandem affinity tag collection&lt;/li&gt;
+&lt;li&gt;MORF over expression collection&lt;/li&gt;
+&lt;li&gt;GFP collection&lt;/li&gt;
+&lt;li&gt;Single gene deletion knockout collection&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Homo Sapiens</title>
+      <link>http://192.157.236.170/BabuLab/project/c003/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/c003/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Lentiviral flag tag constructs&lt;/li&gt;
+&lt;li&gt;Mammalian cDNA clones&lt;/li&gt;
+&lt;li&gt;Cell lines and plasmids&lt;/li&gt;
+&lt;li&gt;Addgene Plasmids&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

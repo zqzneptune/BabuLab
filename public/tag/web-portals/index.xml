@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Portals | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/tag/web-portals/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/tag/web-portals/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web Portals</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Web Portals</title>
+      <link>http://192.157.236.170/BabuLab/tag/web-portals/</link>
+    </image>
+    
+    <item>
+      <title>Human Mitochondrial Proteome database</title>
+      <link>http://192.157.236.170/BabuLab/project/d001/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E.coli Membrane</title>
+      <link>http://192.157.236.170/BabuLab/project/d002/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeast soluble</title>
+      <link>http://192.157.236.170/BabuLab/project/d003/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeast membrane</title>
+      <link>http://192.157.236.170/BabuLab/project/d004/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeast mitochondria</title>
+      <link>http://192.157.236.170/BabuLab/project/d005/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eSGA</title>
+      <link>http://192.157.236.170/BabuLab/project/d006/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell Envelope</title>
+      <link>http://192.157.236.170/BabuLab/project/d007/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA Repair</title>
+      <link>http://192.157.236.170/BabuLab/project/d008/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protocols | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/tag/protocols/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/tag/protocols/index.xml" rel="self" type="application/rss+xml" />
+    <description>Protocols</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Protocols</title>
+      <link>http://192.157.236.170/BabuLab/tag/protocols/</link>
+    </image>
+    
+    <item>
+      <title>Sequential peptide affinity purification</title>
+      <link>http://192.157.236.170/BabuLab/project/p001/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/p001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Escherichia coli synthetic genetic array</title>
+      <link>http://192.157.236.170/BabuLab/project/p002/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/p002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tandem affinity purification</title>
+      <link>http://192.157.236.170/BabuLab/project/p003/</link>
+      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/p003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P1 Transduction</title>
+      <link>http://192.157.236.170/BabuLab/project/p004/</link>
+      <pubDate>Sun, 24 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/p004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purification protocol (Olga)</title>
+      <link>http://192.157.236.170/BabuLab/project/p005/</link>
+      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/p005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

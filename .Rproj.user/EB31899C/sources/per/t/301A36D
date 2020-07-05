@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593818108896.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1083263675",
+    "id" : "301A36D",
+    "lastKnownWriteTime" : 1593834748,
+    "last_content_update" : 1593834748274,
+    "path" : "~/Github/BabuLab/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "90,17",
+        "scrollLine" : "81"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

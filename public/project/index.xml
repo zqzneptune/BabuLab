@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/project/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>http://192.157.236.170/BabuLab/project/</link>
+    </image>
+    
+    <item>
+      <title>Human Mitochondrial Proteome database</title>
+      <link>http://192.157.236.170/BabuLab/project/d001/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E.coli Membrane</title>
+      <link>http://192.157.236.170/BabuLab/project/d002/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeast soluble</title>
+      <link>http://192.157.236.170/BabuLab/project/d003/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeast membrane</title>
+      <link>http://192.157.236.170/BabuLab/project/d004/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeast mitochondria</title>
+      <link>http://192.157.236.170/BabuLab/project/d005/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eSGA</title>
+      <link>http://192.157.236.170/BabuLab/project/d006/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell Envelope</title>
+      <link>http://192.157.236.170/BabuLab/project/d007/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA Repair</title>
+      <link>http://192.157.236.170/BabuLab/project/d008/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/d008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential peptide affinity purification</title>
+      <link>http://192.157.236.170/BabuLab/project/p001/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/p001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Escherichia coli synthetic genetic array</title>
+      <link>http://192.157.236.170/BabuLab/project/p002/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/p002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tandem affinity purification</title>
+      <link>http://192.157.236.170/BabuLab/project/p003/</link>
+      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/p003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P1 Transduction</title>
+      <link>http://192.157.236.170/BabuLab/project/p004/</link>
+      <pubDate>Sun, 24 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/p004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Escherichia coli</title>
+      <link>http://192.157.236.170/BabuLab/project/c001/</link>
+      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/c001/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Sequential peptide affinity tagging collection&lt;/li&gt;
+&lt;li&gt;Yellow fluorescent protein tagging collection&lt;/li&gt;
+&lt;li&gt;GFP free over expression collection with histidine tag&lt;/li&gt;
+&lt;li&gt;F-Single gene deletion knockout collection&lt;/li&gt;
+&lt;li&gt;Hfr gene deletion knockout collection&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Purification protocol (Olga)</title>
+      <link>http://192.157.236.170/BabuLab/project/p005/</link>
+      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/p005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saccharomyces Cerevisiae</title>
+      <link>http://192.157.236.170/BabuLab/project/c002/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/c002/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Tandem affinity tag collection&lt;/li&gt;
+&lt;li&gt;MORF over expression collection&lt;/li&gt;
+&lt;li&gt;GFP collection&lt;/li&gt;
+&lt;li&gt;Single gene deletion knockout collection&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Homo Sapiens</title>
+      <link>http://192.157.236.170/BabuLab/project/c003/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/project/c003/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Lentiviral flag tag constructs&lt;/li&gt;
+&lt;li&gt;Mammalian cDNA clones&lt;/li&gt;
+&lt;li&gt;Cell lines and plasmids&lt;/li&gt;
+&lt;li&gt;Addgene Plasmids&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

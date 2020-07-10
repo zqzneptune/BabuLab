@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashwani Kumar | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/ashwani-kumar/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/ashwani-kumar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashwani Kumar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Ashwani Kumar</title>
+      <link>http://192.157.236.170/BabuLab/author/ashwani-kumar/</link>
+    </image>
+    
+    <item>
+      <title>A Gaussian process-based definition reveals new and bona fide genetic interactions compared to a multiplicative model in the Gram-negative Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31504172/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31504172/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems analysis of the genetic interaction network of yeast molecular chaperones.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29659649/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29659649/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Analysis of the Chaperone Interaction Networks.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29177666/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29177666/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global landscape of cell envelope protein complexes in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29176613/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29176613/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Map of Human Mitochondrial Protein Interactions Linked to Neurodegeneration Reveals New Mechanisms of Redox Homeostasis and NF-κB Signaling.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29128334/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29128334/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Features of the Chaperone Cellular Network Revealed through Systematic Interaction Mapping.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28903051/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28903051/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional Epistatic Interaction Maps Reveal Global Functional Rewiring of Genome Integrity Pathways in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26774489/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26774489/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel function discovery with GeneMANIA: a new integrated resource for gene function prediction in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25316676/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25316676/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative and Systems-Based Approaches for Deciphering Bacterial Membrane Interactome and Gene Function.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26621466/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26621466/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The binary protein-protein interaction landscape of Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24561554/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24561554/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative genome-wide genetic interaction screens reveal global epistatic relationships of protein complexes in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24586182/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24586182/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

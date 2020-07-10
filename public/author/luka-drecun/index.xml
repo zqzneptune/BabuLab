@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luka Drecun | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/luka-drecun/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/luka-drecun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luka Drecun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Luka Drecun</title>
+      <link>http://192.157.236.170/BabuLab/author/luka-drecun/</link>
+    </image>
+    
+    <item>
+      <title>A Comprehensive Membrane Interactome Mapping of Sho1p Reveals Fps1p as a Novel Key Player in the Regulation of the HOG Pathway in S. cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25644660/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25644660/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

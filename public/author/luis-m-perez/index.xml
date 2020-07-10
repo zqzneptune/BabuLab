@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luis M Pérez | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/luis-m-perez/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/luis-m-perez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luis M Pérez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Luis M Pérez</title>
+      <link>http://192.157.236.170/BabuLab/author/luis-m-perez/</link>
+    </image>
+    
+    <item>
+      <title>Identification and Functional Testing of Novel Interacting Protein Partners for the Stress Sensors Wsc1p and Mid2p of Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30733383/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30733383/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

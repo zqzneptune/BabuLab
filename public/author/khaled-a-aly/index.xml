@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khaled A Aly | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/khaled-a-aly/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/khaled-a-aly/index.xml" rel="self" type="application/rss+xml" />
+    <description>Khaled A Aly</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Khaled A Aly</title>
+      <link>http://192.157.236.170/BabuLab/author/khaled-a-aly/</link>
+    </image>
+    
+    <item>
+      <title>HERG channel and cancer: A mechanistic review of carcinogenic processes and therapeutic potential.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-32135169/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-32135169/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Gaussian process-based definition reveals new and bona fide genetic interactions compared to a multiplicative model in the Gram-negative Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31504172/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31504172/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misconnecting the dots: altered mitochondrial protein-protein interactions and their role in neurodegenerative disorders.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31986926/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31986926/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

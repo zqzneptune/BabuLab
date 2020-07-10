@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nevan J Krogan | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/nevan-j-krogan/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/nevan-j-krogan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nevan J Krogan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Nevan J Krogan</title>
+      <link>http://192.157.236.170/BabuLab/author/nevan-j-krogan/</link>
+    </image>
+    
+    <item>
+      <title>Spindle Checkpoint Factors Bub1 and Bub2 Promote DNA Double-Strand Break Repair by Nonhomologous End Joining.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25963654/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25963654/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic characterization of the protein interaction network and protein complexes in Saccharomyces cerevisiae using tandem affinity purification and mass spectrometry.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-19521826/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-19521826/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

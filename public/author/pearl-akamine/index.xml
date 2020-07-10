@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pearl Akamine | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/pearl-akamine/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/pearl-akamine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pearl Akamine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Pearl Akamine</title>
+      <link>http://192.157.236.170/BabuLab/author/pearl-akamine/</link>
+    </image>
+    
+    <item>
+      <title>Identification and Functional Testing of Novel Interacting Protein Partners for the Stress Sensors Wsc1p and Mid2p of Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30733383/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30733383/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Interactome of Saccharomyces cerevisiae Myosin Type II Identified by a Modified Integrated Membrane Yeast Two-Hybrid (iMYTH) Screen.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26921299/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26921299/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

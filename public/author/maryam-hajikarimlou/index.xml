@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maryam Hajikarimlou | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/maryam-hajikarimlou/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/maryam-hajikarimlou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maryam Hajikarimlou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Maryam Hajikarimlou</title>
+      <link>http://192.157.236.170/BabuLab/author/maryam-hajikarimlou/</link>
+    </image>
+    
+    <item>
+      <title>In Silico Engineering of Synthetic Binding Proteins from Random Amino Acid Sequences.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30660105/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30660105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heavy metal sensitivities of gene deletion strains for ITT1 and RPS1A connect their activities to the expression of URE2, a key gene involved in metal detoxification in yeast.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30231023/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30231023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncharacterized ORF HUR1 influences the efficiency of non-homologous end-joining repair in Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28987344/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28987344/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing anti-Zika virus peptides derived from predicted human-Zika virus protein-protein interactions.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29112936/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29112936/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The sensitivity of the yeast, Saccharomyces cerevisiae, to acetic acid is influenced by DOM34 and RPL36A.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29158977/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29158977/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diem-Hang Nguyen-Tran | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/diem-hang-nguyen-tran/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/diem-hang-nguyen-tran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diem-Hang Nguyen-Tran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Diem-Hang Nguyen-Tran</title>
+      <link>http://192.157.236.170/BabuLab/author/diem-hang-nguyen-tran/</link>
+    </image>
+    
+    <item>
+      <title>Spindle Checkpoint Factors Bub1 and Bub2 Promote DNA Double-Strand Break Repair by Nonhomologous End Joining.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25963654/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25963654/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeast mitochondrial protein-protein interactions reveal diverse complexes and disease-relevant functional relationships.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25546499/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25546499/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

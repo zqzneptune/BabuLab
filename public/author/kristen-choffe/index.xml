@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristen Choffe | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/kristen-choffe/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/kristen-choffe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kristen Choffe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 May 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Kristen Choffe</title>
+      <link>http://192.157.236.170/BabuLab/author/kristen-choffe/</link>
+    </image>
+    
+    <item>
+      <title>Differential gene expression in filamentous cells of Ustilago maydis.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-15809875/</link>
+      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-15809875/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

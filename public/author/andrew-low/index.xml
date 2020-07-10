@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Low | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/andrew-low/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/andrew-low/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Low</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrew Low</title>
+      <link>http://192.157.236.170/BabuLab/author/andrew-low/</link>
+    </image>
+    
+    <item>
+      <title>Designing anti-Zika virus peptides derived from predicted human-Zika virus protein-protein interactions.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29112936/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29112936/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

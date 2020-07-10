@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olga Kagan | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/olga-kagan/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/olga-kagan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olga Kagan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Olga Kagan</title>
+      <link>http://192.157.236.170/BabuLab/author/olga-kagan/</link>
+    </image>
+    
+    <item>
+      <title>Global landscape of cell envelope protein complexes in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29176613/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29176613/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteome-wide dataset supporting the study of ancient metazoan macromolecular complexes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26870755/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26870755/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panorama of ancient metazoan macromolecular complexes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26344197/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26344197/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of protein complexes in Escherichia coli using sequential peptide affinity purification in combination with tandem mass spectrometry.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-23168686/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-23168686/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

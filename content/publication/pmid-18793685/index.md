@@ -1,0 +1,12 @@
+---
+title: "Identification and molecular characterization of two naturally occurring Soybean mosaic virus isolates that are closely related but differ in their ability to overcome Rsv4 resistance."
+date: 2008-12-01
+publishDate: 2020-07-10T06:21:58.996603Z
+authors: ["Alla G Gagarinova", "Mohan Babu", "Vaino Poysa", "John H Hill", "Aiming Wang"]
+publication_types: ["2"]
+abstract: "A naturally occurring Rsv4 resistance-breaking isolate (L-RB) and a closely related non-resistance-breaking isolate (L) of Soybean mosaic virus (SMV) were identified in soybean fields in London, Ontario, Canada. The viral genomes of L and L-RB were completely sequenced. Each isolate has a 9585-nucleotide genome with a single open reading frame encoding a polyprotein of approximately 350 kDa. L-RB and L have a very high sequence similarity (99.6%) at both the nucleotide and amino acid levels. Phylogenetic analysis showed that the two isolates belong to the G2 pathotype. Pathogenicity predictions of all virus/soybean combinations, based on the phylogenetic profile, were confirmed by pathogenicity tests using L and L-RB isolates and soybeans carrying different resistance genes, with an exception that L-RB infected a soybean cultivar carrying Rsv4 resistance. The temporal and spatial proximity of L and L-RB and their high sequence similarity suggest L-RB was likely derived from the SMV-L quasispecies. Recombination analysis did not reveal the evidence of genetic recombination for the emergence of L-RB. Mutations introduced by virus-encoded RNA-dependent RNA polymerase during viral genome replication and selection pressure probably contributed to the occurrence of L-RB."
+featured: false
+publication: "*Virus Res.*"
+doi: "10.1016/j.virusres.2008.08.010"
+---
+

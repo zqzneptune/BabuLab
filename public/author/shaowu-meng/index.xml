@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaowu Meng | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/shaowu-meng/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/shaowu-meng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shaowu Meng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 22 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Shaowu Meng</title>
+      <link>http://192.157.236.170/BabuLab/author/shaowu-meng/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the Ustilago maydis/Zea mays pathosystem: transcriptional responses and novel functional aspects of a fungal calcineurin regulatory B subunit.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-23973481/</link>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-23973481/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greg Brown | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/greg-brown/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/greg-brown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Greg Brown</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Greg Brown</title>
+      <link>http://192.157.236.170/BabuLab/author/greg-brown/</link>
+    </image>
+    
+    <item>
+      <title>Functional Diversity of Haloacid Dehalogenase Superfamily Phosphatases from Saccharomyces cerevisiae: BIOCHEMICAL, STRUCTURAL, AND EVOLUTIONARY INSIGHTS.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26071590/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26071590/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dual function of the CRISPR-Cas system in bacterial antivirus immunity and DNA repair.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-21219465/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-21219465/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonard J Foster | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/leonard-j-foster/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/leonard-j-foster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leonard J Foster</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Leonard J Foster</title>
+      <link>http://192.157.236.170/BabuLab/author/leonard-j-foster/</link>
+    </image>
+    
+    <item>
+      <title>Rewiring of the Human Mitochondrial Interactome during Neuronal Reprogramming Reveals Regulators of the Respirasome and Neurogenesis.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31536960/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31536960/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profiling the Escherichia coli membrane protein interactome captured in Peptidisc libraries.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31364989/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31364989/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Map of Human Mitochondrial Protein Interactions Linked to Neurodegeneration Reveals New Mechanisms of Redox Homeostasis and NF-κB Signaling.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29128334/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29128334/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

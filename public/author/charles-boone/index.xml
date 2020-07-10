@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Boone | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/charles-boone/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/charles-boone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Boone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Charles Boone</title>
+      <link>http://192.157.236.170/BabuLab/author/charles-boone/</link>
+    </image>
+    
+    <item>
+      <title>Features of the Chaperone Cellular Network Revealed through Systematic Interaction Mapping.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28903051/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28903051/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A negative genetic interaction map in isogenic cancer cell lines reveals cancer cell vulnerabilities.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24104479/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24104479/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the functional yeast ABC transporter interactome.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-23831759/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-23831759/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eSGA: E. coli synthetic genetic array analysis.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-18677321/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-18677321/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

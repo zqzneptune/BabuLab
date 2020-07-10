@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leandro R S Barbosa | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/leandro-r-s-barbosa/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/leandro-r-s-barbosa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leandro R S Barbosa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Leandro R S Barbosa</title>
+      <link>http://192.157.236.170/BabuLab/author/leandro-r-s-barbosa/</link>
+    </image>
+    
+    <item>
+      <title>ClpP protease activation results from the reorganization of the electrostatic interaction networks at the entrance pores.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31754640/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31754640/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acyldepsipeptide Analogs Dysregulate Human Mitochondrial ClpP Protease Activity and Cause Apoptotic Cell Death.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30126533/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30126533/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

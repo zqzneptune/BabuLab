@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Javier Díaz-Mejía | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/j-javier-diaz-mejia/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/j-javier-diaz-mejia/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Javier Díaz-Mejía</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>J Javier Díaz-Mejía</title>
+      <link>http://192.157.236.170/BabuLab/author/j-javier-diaz-mejia/</link>
+    </image>
+    
+    <item>
+      <title>Genetic interaction maps in Escherichia coli reveal functional crosstalk among cell envelope biogenesis pathways.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-22125496/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-22125496/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems-level approaches for identifying and analyzing genetic interaction networks in Escherichia coli and extensions to other prokaryotes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-19763343/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-19763343/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global functional atlas of Escherichia coli encompassing previously uncharacterized proteins.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-19402753/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-19402753/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eSGA: E. coli synthetic genetic array analysis.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-18677321/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-18677321/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

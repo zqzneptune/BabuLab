@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igor Jurisica | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/igor-jurisica/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/igor-jurisica/index.xml" rel="self" type="application/rss+xml" />
+    <description>Igor Jurisica</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Igor Jurisica</title>
+      <link>http://192.157.236.170/BabuLab/author/igor-jurisica/</link>
+    </image>
+    
+    <item>
+      <title>Systematic protein-protein interaction mapping for clinically relevant human GPCRs.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28298427/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28298427/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Global Analysis of the Receptor Tyrosine Kinase-Protein Phosphatase Interactome.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28065597/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28065597/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

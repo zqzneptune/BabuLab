@@ -5,7 +5,7 @@
     <link>http://192.157.236.170/BabuLab/publication-type/2/</link>
       <atom:link href="http://192.157.236.170/BabuLab/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,26 +13,698 @@
     </image>
     
     <item>
-      <title>Exploring the impact of PARK2 mutations on the total and mitochondrial proteome of human skin fibroblasts</title>
-      <link>http://192.157.236.170/BabuLab/publication/pmid_32596240/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://192.157.236.170/BabuLab/publication/pmid_32596240/</guid>
+      <title>BraInMap Elucidates the Macromolecular Connectivity Landscape of Mammalian Brain.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-32325033/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-32325033/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>BraInMap Elucidates the Macromolecular Connectivity Landscape of Mammalian Brain</title>
-      <link>http://192.157.236.170/BabuLab/publication/pmid_32325033/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://192.157.236.170/BabuLab/publication/pmid_32325033/</guid>
+      <title>HERG channel and cancer: A mechanistic review of carcinogenic processes and therapeutic potential.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-32135169/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-32135169/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Rewiring of the Human Mitochondrial Interactome During Neuronal Reprogramming Reveals Regulators of the Respirasome and Neurogenesis </title>
-      <link>http://192.157.236.170/BabuLab/publication/pmid_31536960/</link>
-      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://192.157.236.170/BabuLab/publication/pmid_31536960/</guid>
+      <title>A Gaussian process-based definition reveals new and bona fide genetic interactions compared to a multiplicative model in the Gram-negative Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31504172/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31504172/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misconnecting the dots: altered mitochondrial protein-protein interactions and their role in neurodegenerative disorders.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31986926/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31986926/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Impact of PARK2 Mutations on the Total and Mitochondrial Proteome of Human Skin Fibroblasts.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-32596240/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-32596240/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical-genetic profiling reveals limited cross-resistance between antimicrobial peptides with different modes of action.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31844052/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31844052/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rewiring of the Human Mitochondrial Interactome during Neuronal Reprogramming Reveals Regulators of the Respirasome and Neurogenesis.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31536960/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31536960/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profiling the Escherichia coli membrane protein interactome captured in Peptidisc libraries.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31364989/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31364989/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and Functional Testing of Novel Interacting Protein Partners for the Stress Sensors Wsc1p and Mid2p of Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30733383/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30733383/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tag-Based Affinity Purification Mass Spectrometry Workflow for Systematic Isolation of the Human Mitochondrial Protein Complexes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31452137/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31452137/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClpP protease activation results from the reorganization of the electrostatic interaction networks at the entrance pores.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31754640/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31754640/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Silico Engineering of Synthetic Binding Proteins from Random Amino Acid Sequences.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30660105/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30660105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chromatographic separation strategies for precision mass spectrometry to study protein-protein interactions and protein phosphorylation.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30380468/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30380468/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The uridylyltransferase GlnD and tRNA modification GTPase MnmE allosterically control Escherichia coli folylpoly-γ-glutamate synthase FolC.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30089654/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30089654/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acyldepsipeptide Analogs Dysregulate Human Mitochondrial ClpP Protease Activity and Cause Apoptotic Cell Death.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30126533/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30126533/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EPHB6 augments both development and drug sensitivity of triple-negative breast cancer tumours.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29700392/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29700392/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems analysis of the genetic interaction network of yeast molecular chaperones.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29659649/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29659649/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Nitrogen Regulatory PII Protein (GlnB) and N-Acetylglucosamine 6-Phosphate Epimerase (NanE) Allosterically Activate Glucosamine 6-Phosphate Deaminase (NagB) in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29229699/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29229699/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Analysis of the Chaperone Interaction Networks.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29177666/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29177666/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global landscape of cell envelope protein complexes in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29176613/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29176613/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heavy metal sensitivities of gene deletion strains for ITT1 and RPS1A connect their activities to the expression of URE2, a key gene involved in metal detoxification in yeast.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30231023/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30231023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncharacterized ORF HUR1 influences the efficiency of non-homologous end-joining repair in Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28987344/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28987344/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zinc oxide and silver nanoparticles toxicity in the baker&#39;s yeast, Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29554091/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29554091/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Map of Human Mitochondrial Protein Interactions Linked to Neurodegeneration Reveals New Mechanisms of Redox Homeostasis and NF-κB Signaling.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29128334/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29128334/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing anti-Zika virus peptides derived from predicted human-Zika virus protein-protein interactions.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29112936/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29112936/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renal oncocytoma characterized by the defective complex I of the respiratory chain boosts the synthesis of the ROS scavenger glutathione.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29285300/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29285300/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Features of the Chaperone Cellular Network Revealed through Systematic Interaction Mapping.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28903051/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28903051/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIV-1 Gp120 clade B/C induces a GRP78 driven cytoprotective mechanism in astrocytoma.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28978127/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28978127/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insights from protein-protein interaction studies on bacterial pathogenesis.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28786313/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28786313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The phosphocarrier protein HPr of the bacterial phosphotransferase system globally regulates energy metabolism by directly interacting with multiple enzymes in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28634232/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28634232/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic protein-protein interaction mapping for clinically relevant human GPCRs.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28298427/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28298427/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Global Analysis of the Receptor Tyrosine Kinase-Protein Phosphatase Interactome.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28065597/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28065597/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolic Adaptation of a C-Terminal Protease A-Deficient Rhizobium leguminosarum in Response to Loss of Nutrient Transport.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29354107/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29354107/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The sensitivity of the yeast, Saccharomyces cerevisiae, to acetic acid is influenced by DOM34 and RPL36A.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29158977/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29158977/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Genetic Screens Reveal the Dynamic Global Functional Organization of the Bacterial Translation Machinery.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-27732863/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-27732863/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Interactome of Saccharomyces cerevisiae Myosin Type II Identified by a Modified Integrated Membrane Yeast Two-Hybrid (iMYTH) Screen.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26921299/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26921299/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteome-wide dataset supporting the study of ancient metazoan macromolecular complexes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26870755/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26870755/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a functional definition of the mitochondrial human proteome.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29900096/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29900096/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional Epistatic Interaction Maps Reveal Global Functional Rewiring of Genome Integrity Pathways in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26774489/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26774489/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Human Neuronal Protein Complexes Reveals Biochemical Activities and Convergent Mechanisms of Action in Autism Spectrum Disorders.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26949739/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26949739/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panorama of ancient metazoan macromolecular complexes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26344197/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26344197/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Diversity of Haloacid Dehalogenase Superfamily Phosphatases from Saccharomyces cerevisiae: BIOCHEMICAL, STRUCTURAL, AND EVOLUTIONARY INSIGHTS.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26071590/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26071590/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spindle Checkpoint Factors Bub1 and Bub2 Promote DNA Double-Strand Break Repair by Nonhomologous End Joining.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25963654/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25963654/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comprehensive Membrane Interactome Mapping of Sho1p Reveals Fps1p as a Novel Key Player in the Regulation of the HOG Pathway in S. cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25644660/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25644660/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rab5-family guanine nucleotide exchange factors bind retromer and promote its recruitment to endosomes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25609093/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25609093/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel function discovery with GeneMANIA: a new integrated resource for gene function prediction in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25316676/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25316676/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeast mitochondrial protein-protein interactions reveal diverse complexes and disease-relevant functional relationships.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25546499/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25546499/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitochondrial targets for pharmacological intervention in human disease.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25367773/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25367773/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative and Systems-Based Approaches for Deciphering Bacterial Membrane Interactome and Gene Function.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26621466/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26621466/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient prediction of human protein-protein interactions at a global scale.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25492630/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25492630/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ligand stimulation induces clathrin- and Rab5-dependent downregulation of the kinase-dead EphB6 receptor preceded by the disruption of EphB6-Hsp90 interaction.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25152371/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25152371/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A global investigation of gene deletion strains that affect premature stop codon bypass in yeast, Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24535059/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24535059/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring mitochondrial system properties of neurodegenerative diseases through interactome mapping.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24262152/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24262152/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The binary protein-protein interaction landscape of Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24561554/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24561554/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NleH defines a new family of bacterial effector kinases.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24373767/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24373767/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative genome-wide genetic interaction screens reveal global epistatic relationships of protein complexes in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24586182/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24586182/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phosphatase complex Pph3/Psy2 is involved in regulation of efficient non-homologous end-joining pathway in the yeast Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24498054/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24498054/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MoxR ATPase RavA and its cofactor ViaA interact with the NADH:ubiquinone oxidoreductase I in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24454883/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24454883/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A negative genetic interaction map in isogenic cancer cell lines reveals cancer cell vulnerabilities.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24104479/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24104479/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ER exit sites are physical and functional core autophagosome biogenesis components.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-23904270/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-23904270/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the functional yeast ABC transporter interactome.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-23831759/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-23831759/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Ustilago maydis/Zea mays pathosystem: transcriptional responses and novel functional aspects of a fungal calcineurin regulatory B subunit.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-23973481/</link>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-23973481/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of protein complexes in Escherichia coli using sequential peptide affinity purification in combination with tandem mass spectrometry.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-23168686/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-23168686/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping bacterial functional networks and pathways in Escherichia Coli using synthetic genetic arrays.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-23168417/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-23168417/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction landscape of membrane-protein complexes in Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-22940862/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-22940862/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A census of human soluble protein complexes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-22939629/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-22939629/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic interaction maps in Escherichia coli reveal functional crosstalk among cell envelope biogenesis pathways.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-22125496/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-22125496/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ribosome-dependent ATPase interacts with conserved membrane protein in Escherichia coli to modulate protein synthesis and oxidative phosphorylation.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-21556145/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-21556145/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dual function of the CRISPR-Cas system in bacterial antivirus immunity and DNA repair.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-21219465/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-21219465/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Array-based synthetic genetic screens to map bacterial pathways and functional networks in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-21815091/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-21815091/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Array-based synthetic genetic screens to map bacterial pathways and functional networks in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-21877280/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-21877280/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of a SLC26 anion transporter STAS domain in complex with acyl carrier protein: implications for E. coli YchM in fatty acid metabolism.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-21070944/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-21070944/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying E. coli proteome and transcriptome with single-molecule sensitivity in single cells.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-20671182/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-20671182/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems-level approaches for identifying and analyzing genetic interaction networks in Escherichia coli and extensions to other prokaryotes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-19763343/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-19763343/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global functional atlas of Escherichia coli encompassing previously uncharacterized proteins.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-19402753/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-19402753/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational and experimental approaches to chart the Escherichia coli cell-envelope-associated proteome and interactome.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-19054114/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-19054114/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential peptide affinity purification system for the systematic isolation and identification of protein complexes from Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-19544035/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-19544035/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic characterization of the protein interaction network and protein complexes in Saccharomyces cerevisiae using tandem affinity purification and mass spectrometry.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-19521826/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-19521826/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and molecular characterization of two naturally occurring Soybean mosaic virus isolates that are closely related but differ in their ability to overcome Rsv4 resistance.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-18793685/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-18793685/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recombination analysis of Soybean mosaic virus sequences reveals evidence of RNA recombination between distinct pathotypes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-19036160/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-19036160/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eSGA: E. coli synthetic genetic array analysis.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-18677321/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-18677321/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altered gene expression changes in Arabidopsis leaf tissues and protoplasts in response to Plum pox virus infection.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-18613973/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-18613973/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Arabidopsis BRAHMA chromatin-remodeling ATPase is involved in repression of seed maturation genes in leaves.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-18508955/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-18508955/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of the transcriptional response of soybean plants with soybean mosaic virus systemic infection.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-18343851/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-18343851/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential gene expression during teliospore germination in Ustilago maydis.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-15887033/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-15887033/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential gene expression in filamentous cells of Ustilago maydis.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-15809875/</link>
+      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-15809875/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative genomic analysis of ESTs from Ustilago maydis.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-15349794/</link>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-15349794/</guid>
       <description></description>
     </item>
     

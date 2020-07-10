@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megan Sanders | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/megan-sanders/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/megan-sanders/index.xml" rel="self" type="application/rss+xml" />
+    <description>Megan Sanders</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Megan Sanders</title>
+      <link>http://192.157.236.170/BabuLab/author/megan-sanders/</link>
+    </image>
+    
+    <item>
+      <title>Uncharacterized ORF HUR1 influences the efficiency of non-homologous end-joining repair in Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28987344/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28987344/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phosphatase complex Pph3/Psy2 is involved in regulation of efficient non-homologous end-joining pathway in the yeast Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-24498054/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-24498054/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

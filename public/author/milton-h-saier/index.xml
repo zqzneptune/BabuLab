@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Milton H Saier | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/milton-h-saier/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/milton-h-saier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Milton H Saier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Milton H Saier</title>
+      <link>http://192.157.236.170/BabuLab/author/milton-h-saier/</link>
+    </image>
+    
+    <item>
+      <title>The uridylyltransferase GlnD and tRNA modification GTPase MnmE allosterically control Escherichia coli folylpoly-γ-glutamate synthase FolC.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-30089654/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-30089654/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Nitrogen Regulatory PII Protein (GlnB) and N-Acetylglucosamine 6-Phosphate Epimerase (NanE) Allosterically Activate Glucosamine 6-Phosphate Deaminase (NagB) in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29229699/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29229699/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The phosphocarrier protein HPr of the bacterial phosphotransferase system globally regulates energy metabolism by directly interacting with multiple enzymes in Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-28634232/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-28634232/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

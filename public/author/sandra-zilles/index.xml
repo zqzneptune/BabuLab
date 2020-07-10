@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandra Zilles | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/sandra-zilles/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/sandra-zilles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandra Zilles</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Sandra Zilles</title>
+      <link>http://192.157.236.170/BabuLab/author/sandra-zilles/</link>
+    </image>
+    
+    <item>
+      <title>A Gaussian process-based definition reveals new and bona fide genetic interactions compared to a multiplicative model in the Gram-negative Escherichia coli.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-31504172/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-31504172/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems analysis of the genetic interaction network of yeast molecular chaperones.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29659649/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29659649/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Analysis of the Chaperone Interaction Networks.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29177666/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29177666/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

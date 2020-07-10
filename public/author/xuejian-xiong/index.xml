@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuejian Xiong | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/xuejian-xiong/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/xuejian-xiong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuejian Xiong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Xuejian Xiong</title>
+      <link>http://192.157.236.170/BabuLab/author/xuejian-xiong/</link>
+    </image>
+    
+    <item>
+      <title>A Map of Human Mitochondrial Protein Interactions Linked to Neurodegeneration Reveals New Mechanisms of Redox Homeostasis and NF-κB Signaling.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29128334/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29128334/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteome-wide dataset supporting the study of ancient metazoan macromolecular complexes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26870755/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26870755/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panorama of ancient metazoan macromolecular complexes.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-26344197/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-26344197/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic interaction maps in Escherichia coli reveal functional crosstalk among cell envelope biogenesis pathways.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-22125496/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-22125496/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

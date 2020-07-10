@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vaino Poysa | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/vaino-poysa/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/vaino-poysa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vaino Poysa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Vaino Poysa</title>
+      <link>http://192.157.236.170/BabuLab/author/vaino-poysa/</link>
+    </image>
+    
+    <item>
+      <title>Identification and molecular characterization of two naturally occurring Soybean mosaic virus isolates that are closely related but differ in their ability to overcome Rsv4 resistance.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-18793685/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-18793685/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

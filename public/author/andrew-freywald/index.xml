@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Freywald | Babu Lab</title>
+    <link>http://192.157.236.170/BabuLab/author/andrew-freywald/</link>
+      <atom:link href="http://192.157.236.170/BabuLab/author/andrew-freywald/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Freywald</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrew Freywald</title>
+      <link>http://192.157.236.170/BabuLab/author/andrew-freywald/</link>
+    </image>
+    
+    <item>
+      <title>EPHB6 augments both development and drug sensitivity of triple-negative breast cancer tumours.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-29700392/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-29700392/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spindle Checkpoint Factors Bub1 and Bub2 Promote DNA Double-Strand Break Repair by Nonhomologous End Joining.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25963654/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25963654/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeast mitochondrial protein-protein interactions reveal diverse complexes and disease-relevant functional relationships.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25546499/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25546499/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ligand stimulation induces clathrin- and Rab5-dependent downregulation of the kinase-dead EphB6 receptor preceded by the disruption of EphB6-Hsp90 interaction.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-25152371/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-25152371/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

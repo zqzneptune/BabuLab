@@ -23,6 +23,10 @@
   </url>
   
   <url>
+    <loc>http://192.157.236.170/BabuLab/author/ms.-jenna-england/</loc>
+  </url>
+  
+  <url>
     <loc>http://192.157.236.170/BabuLab/author/ms.-julia-gregory/</loc>
   </url>
   
@@ -68,7 +72,32 @@
   
   <url>
     <loc>http://192.157.236.170/BabuLab/publication-type/2/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.157.236.170/BabuLab/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.157.236.170/BabuLab/publication/pmid_32596240/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.157.236.170/BabuLab/publication_types/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.157.236.170/BabuLab/publication/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.157.236.170/BabuLab/publication/pmid_32325033/</loc>
+    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,11 +142,6 @@
   
   <url>
     <loc>http://192.157.236.170/BabuLab/authors/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://192.157.236.170/BabuLab/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -248,16 +272,6 @@
   
   <url>
     <loc>http://192.157.236.170/BabuLab/author/pierre-c-havugimana/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://192.157.236.170/BabuLab/publication_types/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://192.157.236.170/BabuLab/publication/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -499,6 +513,11 @@
   <url>
     <loc>http://192.157.236.170/BabuLab/news/20191001/</loc>
     <lastmod>2019-10-01T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.157.236.170/BabuLab/publication/pmid_31536960/</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>

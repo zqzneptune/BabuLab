@@ -33,7 +33,7 @@ user_groups:
 #- Postdoctoral Fellows
 #- PhD. students
 #- Graduate students
-- Undergraduate students
+#- Undergraduate students
 #- Collaborators
 #- Lab Alumni
 weight: 10

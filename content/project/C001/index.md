@@ -14,7 +14,11 @@ external_link:
 #  focal_point: Smart
 ---
 * Sequential peptide affinity tagging collection
+
 * Yellow fluorescent protein tagging collection
+
 * GFP free over expression collection with histidine tag
+
 * F-Single gene deletion knockout collection
+
 * Hfr gene deletion knockout collection

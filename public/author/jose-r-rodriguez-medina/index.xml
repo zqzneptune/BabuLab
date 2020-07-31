@@ -5,12 +5,20 @@
     <link>http://192.157.236.170/BabuLab/author/jose-r-rodriguez-medina/</link>
       <atom:link href="http://192.157.236.170/BabuLab/author/jose-r-rodriguez-medina/index.xml" rel="self" type="application/rss+xml" />
     <description>Jose R Rodriguez-Medina</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
       <title>Jose R Rodriguez-Medina</title>
       <link>http://192.157.236.170/BabuLab/author/jose-r-rodriguez-medina/</link>
     </image>
+    
+    <item>
+      <title>Protein Interactions of the Mechanosensory Proteins Wsc2 and Wsc3 for Stress Resistance in Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-32641451/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-32641451/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identification and Functional Testing of Novel Interacting Protein Partners for the Stress Sensors Wsc1p and Mid2p of Saccharomyces cerevisiae.</title>

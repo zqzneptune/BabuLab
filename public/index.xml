@@ -5,12 +5,28 @@
     <link>http://192.157.236.170/BabuLab/</link>
       <atom:link href="http://192.157.236.170/BabuLab/index.xml" rel="self" type="application/rss+xml" />
     <description>Babu Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://192.157.236.170/BabuLab/images/icon_hub5502365bf6553236465813059ac8b99_4054_512x512_fill_lanczos_center_2.png</url>
       <title>Babu Lab</title>
       <link>http://192.157.236.170/BabuLab/</link>
     </image>
+    
+    <item>
+      <title>Sensitivity of yeast to lithium chloride connects the activity of YTA6 and YPR096C to translation of structured mRNAs.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-32639961/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-32639961/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein Interactions of the Mechanosensory Proteins Wsc2 and Wsc3 for Stress Resistance in Saccharomyces cerevisiae.</title>
+      <link>http://192.157.236.170/BabuLab/publication/pmid-32641451/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/publication/pmid-32641451/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BraInMap Elucidates the Macromolecular Connectivity Landscape of Mammalian Brain.</title>
@@ -121,6 +137,38 @@
       <link>http://192.157.236.170/BabuLab/publication/pmid-30660105/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://192.157.236.170/BabuLab/publication/pmid-30660105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab members</title>
+      <link>http://192.157.236.170/BabuLab/labmember/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/labmember/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab News</title>
+      <link>http://192.157.236.170/BabuLab/labnews/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/labnews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab Resource</title>
+      <link>http://192.157.236.170/BabuLab/labresource/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/labresource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PGCF</title>
+      <link>http://192.157.236.170/BabuLab/pgcf/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/pgcf/</guid>
       <description></description>
     </item>
     
@@ -241,6 +289,14 @@
       <link>http://192.157.236.170/BabuLab/publication/pmid-29285300/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>http://192.157.236.170/BabuLab/publication/pmid-29285300/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Government of Canada invests more than $3.7 million in innovative health research</title>
+      <link>http://192.157.236.170/BabuLab/news/20171011/</link>
+      <pubDate>Wed, 11 Oct 2017 14:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/news/20171011/</guid>
       <description></description>
     </item>
     
@@ -418,11 +474,21 @@
       <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
       <guid>http://192.157.236.170/BabuLab/project/c001/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Sequential peptide affinity tagging collection&lt;/li&gt;
-&lt;li&gt;Yellow fluorescent protein tagging collection&lt;/li&gt;
-&lt;li&gt;GFP free over expression collection with histidine tag&lt;/li&gt;
-&lt;li&gt;F-Single gene deletion knockout collection&lt;/li&gt;
-&lt;li&gt;Hfr gene deletion knockout collection&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sequential peptide affinity tagging collection&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yellow fluorescent protein tagging collection&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GFP free over expression collection with histidine tag&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;F-Single gene deletion knockout collection&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hfr gene deletion knockout collection&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -476,6 +542,14 @@
       <link>http://192.157.236.170/BabuLab/publication/pmid-29900096/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       <guid>http://192.157.236.170/BabuLab/publication/pmid-29900096/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Ammunition to fight antibiotic resistant bacteria</title>
+      <link>http://192.157.236.170/BabuLab/news/20160224/</link>
+      <pubDate>Wed, 24 Feb 2016 06:00:00 +0000</pubDate>
+      <guid>http://192.157.236.170/BabuLab/news/20160224/</guid>
       <description></description>
     </item>
     

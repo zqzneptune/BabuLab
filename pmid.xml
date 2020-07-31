@@ -2,132 +2,148 @@
 <!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
 <PubmedArticleSet>
 <PubmedArticle>
-    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
-        <PMID Version="1">31536960</PMID>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32641451</PMID>
         <DateRevised>
             <Year>2020</Year>
-            <Month>05</Month>
-            <Day>04</Day>
+            <Month>07</Month>
+            <Day>09</Day>
         </DateRevised>
         <Article PubModel="Print-Electronic">
             <Journal>
-                <ISSN IssnType="Electronic">2589-0042</ISSN>
+                <ISSN IssnType="Electronic">2160-1836</ISSN>
                 <JournalIssue CitedMedium="Internet">
-                    <Volume>19</Volume>
                     <PubDate>
-                        <Year>2019</Year>
-                        <Month>Sep</Month>
-                        <Day>27</Day>
+                        <Year>2020</Year>
+                        <Month>Jul</Month>
+                        <Day>08</Day>
                     </PubDate>
                 </JournalIssue>
-                <Title>iScience</Title>
-                <ISOAbbreviation>iScience</ISOAbbreviation>
+                <Title>G3 (Bethesda, Md.)</Title>
+                <ISOAbbreviation>G3 (Bethesda)</ISOAbbreviation>
             </Journal>
-            <ArticleTitle>Rewiring of the Human Mitochondrial Interactome during Neuronal Reprogramming Reveals Regulators of the Respirasome and Neurogenesis.</ArticleTitle>
-            <Pagination>
-                <MedlinePgn>1114-1132</MedlinePgn>
-            </Pagination>
-            <ELocationID EIdType="pii" ValidYN="Y">S2589-0042(19)30336-0</ELocationID>
-            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.isci.2019.08.057</ELocationID>
+            <ArticleTitle>Protein Interactions of the Mechanosensory Proteins Wsc2 and Wsc3 for Stress Resistance in <i>
+                    <i>Saccharomyces cerevisiae</i>
+                </i>.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">g3.401468.2020</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1534/g3.120.401468</ELocationID>
             <Abstract>
-                <AbstractText>Mitochondrial protein (MP) assemblies undergo alterations during neurogenesis, a complex process vital in brain homeostasis and disease. Yet which MP assemblies remodel during differentiation remains unclear. Here, using mass spectrometry-based co-fractionation profiles and phosphoproteomics, we generated mitochondrial interaction maps of human pluripotent embryonal carcinoma stem cells and differentiated neuronal-like cells, which presented as two discrete cell populations by single-cell RNA sequencing. The resulting networks, encompassing 6,442 high-quality associations among 600 MPs, revealed widespread changes in mitochondrial interactions and site-specific phosphorylation during neuronal differentiation. By leveraging the networks, we show the orphan C20orf24 as a respirasome assembly factor whose disruption markedly reduces respiratory chain activity in patients deficient in complex IV. We also find that a heme-containing neurotrophic factor, neuron-derived neurotrophic factor [NENF], couples with Parkinson disease-related proteins to promote neurotrophic activity. Our results provide insights into the dynamic reorganization of mitochondrial networks during neuronal differentiation and highlights mechanisms for MPs in respirasome, neuronal function, and mitochondrial diseases.</AbstractText>
-                <CopyrightInformation>Copyright © 2019 The Author(s). Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+                <AbstractText>Antifungal drug discovery and design is very challenging because of the considerable similarities in genetic features and metabolic pathways between fungi and humans. However, cell wall composition represents a notable point of divergence. Therefore, a research strategy was designed to improve our understanding of the mechanisms for maintaining fungal cell wall integrity, and to identify potential targets for new drugs that modulate the underlying protein-protein interactions in <i>
+                        <i>Saccharomyces cerevisiae</i>
+                    </i> This study defines roles for Wsc2p and Wsc3p and their interacting protein partners in the cell wall integrity signaling and cell survival mechanisms that respond to treatments with fluconazole and hydrogen peroxide. By combined genetic and biochemical approaches, we report the discovery of 12 novel protein interactors of Wsc2p and Wsc3p. Of these, Wsc2p interacting partners Gtt1p and Yck2p, have opposing roles in the resistance and sensitivity to fluconazole treatments respectively. The interaction of Wsc2p with Ras2p was confirmed by iMYTH and IP-MS approaches and is shown to play a dominant role in response to oxidative stress induced by hydrogen peroxide. Consistent with an earlier study, Ras2p was also identified as an interacting partner of Wsc1p and Mid2p cell wall integrity signaling proteins. Collectively, this study expands the interaction networks of the mechanosensory proteins of the Cell Wall Integrity pathway.</AbstractText>
+                <CopyrightInformation>Copyright © The Author(s) 2020. Published by the Genetics Society of America.</CopyrightInformation>
             </Abstract>
             <AuthorList CompleteYN="Y">
                 <Author ValidYN="Y">
-                    <LastName>Moutaoufik</LastName>
-                    <ForeName>Mohamed Taha</ForeName>
-                    <Initials>MT</Initials>
+                    <LastName>Vélez-Segarra</LastName>
+                    <ForeName>Vladimir</ForeName>
+                    <Initials>V</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Malty</LastName>
-                    <ForeName>Ramy</ForeName>
+                    <LastName>González-Crespo</LastName>
+                    <ForeName>Sahily</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santiago-Cartagena</LastName>
+                    <ForeName>Ednalise</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vázquez-Quiñones</LastName>
+                    <ForeName>Luis E</ForeName>
+                    <Initials>LE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad Ana G. Méndez.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martínez-Matías</LastName>
+                    <ForeName>Nelson</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Otero</LastName>
+                    <ForeName>Yamirelis</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zayas</LastName>
+                    <ForeName>Julián J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Siaca</LastName>
+                    <ForeName>Rafael</ForeName>
                     <Initials>R</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Amin</LastName>
-                    <ForeName>Shahreen</ForeName>
-                    <Initials>S</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Zhang</LastName>
-                    <ForeName>Qingzhou</ForeName>
-                    <Initials>Q</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Phanse</LastName>
-                    <ForeName>Sadhna</ForeName>
-                    <Initials>S</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Gagarinova</LastName>
-                    <ForeName>Alla</ForeName>
-                    <Initials>A</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Zilocchi</LastName>
-                    <ForeName>Mara</ForeName>
-                    <Initials>M</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Hoell</LastName>
-                    <ForeName>Larissa</ForeName>
-                    <Initials>L</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Minic</LastName>
-                    <ForeName>Zoran</ForeName>
-                    <Initials>Z</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Gagarinova</LastName>
-                    <ForeName>Maria</ForeName>
-                    <Initials>M</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Aoki</LastName>
-                    <ForeName>Hiroyuki</ForeName>
-                    <Initials>H</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Stockwell</LastName>
-                    <ForeName>Jocelyn</ForeName>
+                    <LastName>Del Rosario</LastName>
+                    <ForeName>Jeanmadi</ForeName>
                     <Initials>J</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Department of Surgery, Neuroscience Research Group, College of Medicine, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada.</Affiliation>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mejías</LastName>
+                    <ForeName>Inoushka</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aponte</LastName>
+                    <ForeName>José A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Collazo</LastName>
+                    <ForeName>Noelani C</ForeName>
+                    <Initials>NC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lasso</LastName>
+                    <ForeName>Francisco J</ForeName>
+                    <Initials>FJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Puerto Rico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Snider</LastName>
+                    <ForeName>Jamie</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Toronto.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
@@ -135,119 +151,23 @@
                     <ForeName>Matthew</ForeName>
                     <Initials>M</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
+                        <Affiliation>University of Regina.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Goebels</LastName>
-                    <ForeName>Florian</ForeName>
-                    <Initials>F</Initials>
+                    <LastName>Aoki</LastName>
+                    <ForeName>Hiroyuki</ForeName>
+                    <Initials>H</Initials>
                     <AffiliationInfo>
-                        <Affiliation>The Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.</Affiliation>
+                        <Affiliation>University of Regina.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
-                    <LastName>Broderick</LastName>
-                    <ForeName>Kirsten</ForeName>
-                    <Initials>K</Initials>
+                    <LastName>Rymond</LastName>
+                    <ForeName>Brian C</ForeName>
+                    <Initials>BC</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Scott</LastName>
-                    <ForeName>Nichollas E</ForeName>
-                    <Initials>NE</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry and Molecular Biology, University of British Columbia, Vancouver, BC V6T 1Z3, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Vlasblom</LastName>
-                    <ForeName>James</ForeName>
-                    <Initials>J</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Musso</LastName>
-                    <ForeName>Gabriel</ForeName>
-                    <Initials>G</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Medicine, Harvard Medical School and Cardiovascular Division, Brigham and Women's Hospital, Boston, MA 02115, USA.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Prasad</LastName>
-                    <ForeName>Bhanu</ForeName>
-                    <Initials>B</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Medicine, Regina Qu'Appelle Health Region, Regina, SK S4P 0W5, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Lamantea</LastName>
-                    <ForeName>Eleonora</ForeName>
-                    <Initials>E</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Medical Genetics and Neurogenetics Unit, Fondazione IRCCS Instituto Neurologico Carlo Besta, via L. Temolo, 4, 20126 Milan, Italy.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Garavaglia</LastName>
-                    <ForeName>Barbara</ForeName>
-                    <Initials>B</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Medical Genetics and Neurogenetics Unit, Fondazione IRCCS Instituto Neurologico Carlo Besta, via L. Temolo, 4, 20126 Milan, Italy.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Rajput</LastName>
-                    <ForeName>Alex</ForeName>
-                    <Initials>A</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Medicine, Division of Neurology, College of Medicine, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Murayama</LastName>
-                    <ForeName>Kei</ForeName>
-                    <Initials>K</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Metabolism, Chiba Children's Hospital, 579-1 Heta-cho, Midori, Chiba 266-0007, Japan.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Okazaki</LastName>
-                    <ForeName>Yasushi</ForeName>
-                    <Initials>Y</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Graduate School of Medicine, Intractable Disease Research Center, Juntendo University, Hongo 2-1-1, Bunkyo-ku, Tokyo 113-8421, Japan.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Foster</LastName>
-                    <ForeName>Leonard J</ForeName>
-                    <Initials>LJ</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry and Molecular Biology, University of British Columbia, Vancouver, BC V6T 1Z3, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Bader</LastName>
-                    <ForeName>Gary D</ForeName>
-                    <Initials>GD</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>The Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.</Affiliation>
-                    </AffiliationInfo>
-                </Author>
-                <Author ValidYN="Y">
-                    <LastName>Cayabyab</LastName>
-                    <ForeName>Francisco S</ForeName>
-                    <Initials>FS</Initials>
-                    <AffiliationInfo>
-                        <Affiliation>Department of Surgery, Neuroscience Research Group, College of Medicine, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada.</Affiliation>
+                        <Affiliation>University of Kentucky.</Affiliation>
                     </AffiliationInfo>
                 </Author>
                 <Author ValidYN="Y">
@@ -255,470 +175,601 @@
                     <ForeName>Mohan</ForeName>
                     <Initials>M</Initials>
                     <AffiliationInfo>
-                        <Affiliation>Department of Biochemistry, University of Regina, Regina, SK S4S 0A2, Canada. Electronic address: mohan.babu@uregina.ca.</Affiliation>
+                        <Affiliation>University of Regina.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stagljar</LastName>
+                    <ForeName>Igor</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Toronto; Mediterranean Institute for Life Sciences.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodríguez-Medina</LastName>
+                    <ForeName>José R</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Puerto Rico jose.rodriguez123@upr.edu.</Affiliation>
                     </AffiliationInfo>
                 </Author>
             </AuthorList>
             <Language>eng</Language>
-            <GrantList CompleteYN="Y">
-                <Grant>
-                    <GrantID>R01 GM070743</GrantID>
-                    <Acronym>GM</Acronym>
-                    <Agency>NIGMS NIH HHS</Agency>
-                    <Country>United States</Country>
-                </Grant>
-                <Grant>
-                    <GrantID>R01 HG009979</GrantID>
-                    <Acronym>HG</Acronym>
-                    <Agency>NHGRI NIH HHS</Agency>
-                    <Country>United States</Country>
-                </Grant>
-            </GrantList>
             <PublicationTypeList>
                 <PublicationType UI="D016428">Journal Article</PublicationType>
             </PublicationTypeList>
             <ArticleDate DateType="Electronic">
-                <Year>2019</Year>
-                <Month>09</Month>
-                <Day>04</Day>
+                <Year>2020</Year>
+                <Month>07</Month>
+                <Day>08</Day>
             </ArticleDate>
         </Article>
         <MedlineJournalInfo>
             <Country>United States</Country>
-            <MedlineTA>iScience</MedlineTA>
-            <NlmUniqueID>101724038</NlmUniqueID>
-            <ISSNLinking>2589-0042</ISSNLinking>
+            <MedlineTA>G3 (Bethesda)</MedlineTA>
+            <NlmUniqueID>101566598</NlmUniqueID>
+            <ISSNLinking>2160-1836</ISSNLinking>
         </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
         <KeywordList Owner="NOTNLM">
-            <Keyword MajorTopicYN="N">Biological Sciences</Keyword>
-            <Keyword MajorTopicYN="N">Developmental Biology</Keyword>
-            <Keyword MajorTopicYN="N">Developmental Neuroscience</Keyword>
-            <Keyword MajorTopicYN="N">Proteomics</Keyword>
+            <Keyword MajorTopicYN="N">cell wall integrity pathway</Keyword>
+            <Keyword MajorTopicYN="N">mechanosensory proteins</Keyword>
+            <Keyword MajorTopicYN="N">protein-protein interactions</Keyword>
+            <Keyword MajorTopicYN="N">stress response</Keyword>
         </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32641451</ArticleId>
+            <ArticleId IdType="pii">g3.120.401468</ArticleId>
+            <ArticleId IdType="doi">10.1534/g3.120.401468</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">32639961</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sensitivity of yeast to lithium chloride connects the activity of YTA6 and YPR096C to translation of structured mRNAs.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0235033</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0235033</ELocationID>
+            <Abstract>
+                <AbstractText>Lithium Chloride (LiCl) toxicity, mode of action and cellular responses have been the subject of active investigations over the past decades. In yeast, LiCl treatment is reported to reduce the activity and alters the expression of PGM2, a gene that encodes a phosphoglucomutase involved in sugar metabolism. Reduced activity of phosphoglucomutase in the presence of galactose causes an accumulation of intermediate metabolites of galactose metabolism leading to a number of phenotypes including growth defect. In the current study, we identify two understudied yeast genes, YTA6 and YPR096C that when deleted, cell sensitivity to LiCl is increased when galactose is used as a carbon source. The 5'-UTR of PGM2 mRNA is structured. Using this region, we show that YTA6 and YPR096C influence the translation of PGM2 mRNA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hajikarimlou</LastName>
+                    <ForeName>Maryam</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moteshareie</LastName>
+                    <ForeName>Houman</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Omidi</LastName>
+                    <ForeName>Katayoun</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hooshyar</LastName>
+                    <ForeName>Mohsen</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shaikho</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biomedicine Program, Children's Hospital of Eastern Ontario Research Institute, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kazmirchuk</LastName>
+                    <ForeName>Tom</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2962-6819</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burnside</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takallou</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zare</LastName>
+                    <ForeName>Narges</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jagadeesan</LastName>
+                    <ForeName>Sasi Kumar</ForeName>
+                    <Initials>SK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Puchacz</LastName>
+                    <ForeName>Nathalie</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Babu</LastName>
+                    <ForeName>Mohan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Research and Innovation Centre, University of Regina, Regina, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Myron</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holcik</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Samanfar</LastName>
+                    <ForeName>Bahram</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Agriculture and Agri-Food Canada, Ottawa Research and Development Centre (ORDC), Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Golshani</LastName>
+                    <ForeName>Ashkan</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2420-7164</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Ottawa Institute of Systems Biology, Carleton University, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>07</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
     </MedlineCitation>
     <PubmedData>
         <History>
             <PubMedPubDate PubStatus="received">
                 <Year>2019</Year>
-                <Month>01</Month>
-                <Day>22</Day>
-            </PubMedPubDate>
-            <PubMedPubDate PubStatus="revised">
-                <Year>2019</Year>
-                <Month>06</Month>
-                <Day>28</Day>
+                <Month>07</Month>
+                <Day>30</Day>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="accepted">
-                <Year>2019</Year>
-                <Month>08</Month>
-                <Day>29</Day>
+                <Year>2020</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="pubmed">
-                <Year>2019</Year>
-                <Month>9</Month>
-                <Day>20</Day>
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>9</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
             <PubMedPubDate PubStatus="medline">
-                <Year>2019</Year>
-                <Month>9</Month>
-                <Day>20</Day>
-                <Hour>6</Hour>
-                <Minute>1</Minute>
-            </PubMedPubDate>
-            <PubMedPubDate PubStatus="entrez">
-                <Year>2019</Year>
-                <Month>9</Month>
-                <Day>20</Day>
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>9</Day>
                 <Hour>6</Hour>
                 <Minute>0</Minute>
             </PubMedPubDate>
         </History>
-        <PublicationStatus>ppublish</PublicationStatus>
+        <PublicationStatus>epublish</PublicationStatus>
         <ArticleIdList>
-            <ArticleId IdType="pubmed">31536960</ArticleId>
-            <ArticleId IdType="pii">S2589-0042(19)30336-0</ArticleId>
-            <ArticleId IdType="doi">10.1016/j.isci.2019.08.057</ArticleId>
-            <ArticleId IdType="pmc">PMC6831851</ArticleId>
+            <ArticleId IdType="pubmed">32639961</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0235033</ArticleId>
+            <ArticleId IdType="pii">PONE-D-19-21480</ArticleId>
+            <ArticleId IdType="pmc">PMC7343135</ArticleId>
         </ArticleIdList>
         <ReferenceList>
             <Reference>
-                <Citation>Biochim Biophys Acta. 2013 May;1827(5):612-26</Citation>
+                <Citation>Curr Genet. 1995 Apr;27(5):417-26</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">23274250</ArticleId>
+                    <ArticleId IdType="pubmed">7586027</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Mol Syst Biol. 2014 Nov 17;10:760</Citation>
+                <Citation>Cell Rep. 2016 Apr 19;15(3):638-650</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">25403753</ArticleId>
+                    <ArticleId IdType="pubmed">27068460</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>J Biol Chem. 2008 Feb 15;283(7):4323-31</Citation>
+                <Citation>Gene. 2018 Jan 10;639:128-136</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">18056703</ArticleId>
+                    <ArticleId IdType="pubmed">28987344</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>J Proteome Res. 2011 Jul 1;10(7):2949-58</Citation>
+                <Citation>Nat Methods. 2010 Dec;7(12):1017-24</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">21488652</ArticleId>
+                    <ArticleId IdType="pubmed">21076421</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Nat Methods. 2012 Mar 18;9(5):471-2</Citation>
+                <Citation>G3 (Bethesda). 2015 Feb 26;5(5):997-1006</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">22426491</ArticleId>
+                    <ArticleId IdType="pubmed">25721128</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>PLoS Biol. 2004 Nov;2(11):e362</Citation>
+                <Citation>Mol Cell. 2006 Feb 3;21(3):319-30</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">15502874</ArticleId>
+                    <ArticleId IdType="pubmed">16455487</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>EMBO Rep. 2007 Jun;8(6):576-82</Citation>
+                <Citation>Mol Biosyst. 2013 Jun;9(6):1351-9</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">17510655</ArticleId>
+                    <ArticleId IdType="pubmed">23467670</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Nature. 2015 Sep 17;525(7569):339-44</Citation>
+                <Citation>EMBO J. 1997 Dec 1;16(23):7184-95</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">26344197</ArticleId>
+                    <ArticleId IdType="pubmed">9384595</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Cell Rep. 2015 May 19;11(7):1134-46</Citation>
+                <Citation>PLoS One. 2014 Jan 31;9(1):e87248</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">25959826</ArticleId>
+                    <ArticleId IdType="pubmed">24498054</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Sci Rep. 2018 Jan 9;8(1):153</Citation>
+                <Citation>G3 (Bethesda). 2012 Oct;2(10):1279-89</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">29317722</ArticleId>
+                    <ArticleId IdType="pubmed">23050238</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Ann Neurol. 2005 Nov;58(5):803-7</Citation>
+                <Citation>BMC Chem Biol. 2010 Aug 06;10:6</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">16240358</ArticleId>
+                    <ArticleId IdType="pubmed">20691087</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Trends Endocrinol Metab. 2017 Nov;28(11):761-770</Citation>
+                <Citation>Psychiatry Res. 2018 Nov;269:658-672</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">28988874</ArticleId>
+                    <ArticleId IdType="pubmed">30216918</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Cell. 2015 Oct 22;163(3):712-23</Citation>
+                <Citation>Clin Chem. 2009 Apr;55(4):611-22</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">26496610</ArticleId>
+                    <ArticleId IdType="pubmed">19246619</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Cell. 2012 Aug 31;150(5):1068-81</Citation>
+                <Citation>J Cell Biol. 2011 Aug 22;194(4):527-37</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">22939629</ArticleId>
+                    <ArticleId IdType="pubmed">21844211</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Nat Neurosci. 2015 Dec;18(12):1819-31</Citation>
+                <Citation>EMBO J. 1993 Oct;12(10):3997-4003</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">26523646</ArticleId>
+                    <ArticleId IdType="pubmed">8404865</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Nucleic Acids Res. 2010 Jan;38(Database issue):D497-501</Citation>
+                <Citation>Nucleic Acids Res. 2010 Mar;38(5):1686-96</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">19884131</ArticleId>
+                    <ArticleId IdType="pubmed">20007598</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Hum Mol Genet. 2013 Jun 1;22(11):2152-68</Citation>
+                <Citation>Mol Psychiatry. 2003 Feb;8(2):135-44</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">23418303</ArticleId>
+                    <ArticleId IdType="pubmed">12610644</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>FASEB J. 2019 Feb;33(2):2982-2994</Citation>
+                <Citation>Nat Biotechnol. 2005 Nov;23(11):1383-90</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">30332300</ArticleId>
+                    <ArticleId IdType="pubmed">16273071</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>J Neurosci. 2014 Sep 3;34(36):11929-47</Citation>
+                <Citation>Front Aging Neurosci. 2014 Jul 30;6:190</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">25186741</ArticleId>
+                    <ArticleId IdType="pubmed">25126078</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>EMBO J. 2015 Apr 15;34(8):1110-25</Citation>
+                <Citation>Trends Genet. 2006 Jan;22(1):56-63</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">25755250</ArticleId>
+                    <ArticleId IdType="pubmed">16309778</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Cell Metab. 2018 Mar 6;27(3):616-629.e4</Citation>
+                <Citation>Mol Cell Biol. 2015 Jul;35(14):2448-63</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">29514069</ArticleId>
+                    <ArticleId IdType="pubmed">25963654</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Annu Rev Neurosci. 2008;31:91-123</Citation>
+                <Citation>Appl Environ Microbiol. 2018 May 1;84(10):</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">18333761</ArticleId>
+                    <ArticleId IdType="pubmed">29523547</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Cell Stem Cell. 2009 Aug 7;5(2):214-26</Citation>
+                <Citation>J Vis Exp. 2013 Oct 30;(80):e50921</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">19664995</ArticleId>
+                    <ArticleId IdType="pubmed">24300101</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Science. 2016 Jun 24;352(6293):1586-90</Citation>
+                <Citation>RNA. 2011 Aug;17(8):1461-78</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">27339989</ArticleId>
+                    <ArticleId IdType="pubmed">21697354</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>J Comput Biol. 2009 Feb;16(2):133-44</Citation>
+                <Citation>Science. 2001 Dec 14;294(5550):2364-8</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">19193141</ArticleId>
+                    <ArticleId IdType="pubmed">11743205</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Nature. 2018 Mar 22;555(7697):524-528</Citation>
+                <Citation>J Biol Chem. 2002 Jun 14;277(24):21542-8</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">29539641</ArticleId>
+                    <ArticleId IdType="pubmed">11940596</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>EMBO Mol Med. 2018 Sep;10(9):</Citation>
+                <Citation>mSphere. 2016 Sep 28;1(5):</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">30012579</ArticleId>
+                    <ArticleId IdType="pubmed">27704052</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Nucleic Acids Res. 2017 Jan 4;45(D1):D833-D839</Citation>
+                <Citation>Annu Rev Pharmacol Toxicol. 2001;41:789-813</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">27924018</ArticleId>
+                    <ArticleId IdType="pubmed">11264477</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Hum Mol Genet. 2005 Jul 15;14(14):2063-73</Citation>
+                <Citation>PLoS One. 2018 Sep 19;13(9):e0198704</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">15944198</ArticleId>
+                    <ArticleId IdType="pubmed">30231023</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Nucleic Acids Res. 2010 Jul;38(Web Server issue):W214-20</Citation>
+                <Citation>Science. 2008 Jun 6;320(5881):1344-9</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">20576703</ArticleId>
+                    <ArticleId IdType="pubmed">18451266</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Cell. 2015 Apr 23;161(3):647-660</Citation>
+                <Citation>PeerJ. 2017 Nov 14;5:e4037</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">25910212</ArticleId>
+                    <ArticleId IdType="pubmed">29158977</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>EMBO Rep. 2004 Feb;5(2):213-8</Citation>
+                <Citation>EMBO J. 2002 Jun 3;21(11):2788-97</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">14749723</ArticleId>
+                    <ArticleId IdType="pubmed">12032091</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Genome Res. 2011 Jul;21(7):1109-21</Citation>
+                <Citation>BMC Genomics. 2009 Aug 22;10:391</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">21536720</ArticleId>
+                    <ArticleId IdType="pubmed">19698117</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Cell Death Dis. 2014 Dec 04;5:e1561</Citation>
+                <Citation>J Biol Chem. 2003 Aug 22;278(34):32141-9</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">25476909</ArticleId>
+                    <ArticleId IdType="pubmed">12791685</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Cell Syst. 2017 Dec 27;5(6):564-577.e12</Citation>
+                <Citation>Science. 1999 Aug 6;285(5429):901-6</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">29128334</ArticleId>
+                    <ArticleId IdType="pubmed">10436161</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Cell. 2010 Dec 23;143(7):1174-89</Citation>
+                <Citation>Mol Biosyst. 2014 Apr;10(4):916-24</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">21183079</ArticleId>
+                    <ArticleId IdType="pubmed">24535059</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Proc Natl Acad Sci U S A. 2013 Jun 11;110(24):E2249-54</Citation>
+                <Citation>Mol Cell Biol. 2003 Jun;23(12):4207-18</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">23716663</ArticleId>
+                    <ArticleId IdType="pubmed">12773564</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Biochim Biophys Acta. 2009 Jan;1793(1):42-51</Citation>
+                <Citation>Mol Biol Cell. 2011 Sep;22(18):3379-93</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">18501716</ArticleId>
+                    <ArticleId IdType="pubmed">21795399</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Nucleic Acids Res. 2016 Jan 4;44(D1):D1251-7</Citation>
+                <Citation>J Biol Chem. 2001 Oct 12;276(41):37794-801</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">26450961</ArticleId>
+                    <ArticleId IdType="pubmed">11500487</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Front Neurosci. 2013 Jun 25;7:111</Citation>
+                <Citation>Genome Res. 2017 Dec;27(12):2015-2024</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">23805070</ArticleId>
+                    <ArticleId IdType="pubmed">29097404</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Mol Syst Biol. 2012 Jan 17;8:565</Citation>
+                <Citation>Trends Pharmacol Sci. 2000 Feb;21(2):61-4</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">22252388</ArticleId>
+                    <ArticleId IdType="pubmed">10664610</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Cell. 2012 Mar 16;148(6):1145-59</Citation>
+                <Citation>Int J Mol Sci. 2017 Dec 11;18(12):</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">22424226</ArticleId>
+                    <ArticleId IdType="pubmed">29232923</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Mol Cell. 2017 Feb 2;65(3):539-553.e7</Citation>
+                <Citation>Nat Rev Genet. 2007 Jun;8(6):437-49</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">28157508</ArticleId>
+                    <ArticleId IdType="pubmed">17510664</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Stem Cell Res. 2016 Mar;16(2):541-51</Citation>
+                <Citation>BMC Bioinformatics. 2007 Apr 04;8:117</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">26985738</ArticleId>
+                    <ArticleId IdType="pubmed">17408490</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Genes Cells. 2016 Jul;21(7):772-88</Citation>
+                <Citation>Nucleic Acids Res. 2013 Jul;41(Web Server issue):W591-6</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">27270837</ArticleId>
+                    <ArticleId IdType="pubmed">23677617</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Nature. 2000 Feb 10;403(6770):601-3</Citation>
+                <Citation>Mol Cell Biol. 2012 Oct;32(20):4181-94</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">10688178</ArticleId>
+                    <ArticleId IdType="pubmed">22890846</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Hum Mol Genet. 2006 Jun 1;15(11):1816-25</Citation>
+                <Citation>Trends Cell Biol. 2006 Jun;16(6):285-92</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">16632486</ArticleId>
+                    <ArticleId IdType="pubmed">16682204</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Nucleic Acids Res. 2002 Apr 1;30(7):1575-84</Citation>
+                <Citation>Biochem Biophys Res Commun. 2012 Jan 13;417(2):732-7</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">11917018</ArticleId>
+                    <ArticleId IdType="pubmed">22197553</ArticleId>
                 </ArticleIdList>
             </Reference>
             <Reference>
-                <Citation>Mol Cell Proteomics. 2018 Feb;17(2):216-232</Citation>
+                <Citation>Genes Dev. 2005 Dec 1;19(23):2816-26</Citation>
                 <ArticleIdList>
-                    <ArticleId IdType="pubmed">29222160</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Neuron. 2019 Jun 19;102(6):1127-1142.e3</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">31079872</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Cell Rep. 2017 Feb 7;18(6):1527-1542</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">28178528</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Nat Genet. 1998 Mar;18(3):231-6</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">9500544</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Mol Cell. 2016 Aug 18;63(4):621-632</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">27499296</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Nucleic Acids Res. 2017 Jan 4;45(D1):D362-D368</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">27924014</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Neuron. 2014 Jul 2;83(1):51-68</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">24991954</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Proc Natl Acad Sci U S A. 2017 Feb 14;114(7):1732-1737</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">28130547</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Cell Metab. 2012 Nov 7;16(5):672-83</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">23140645</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Autophagy. 2017 Apr 3;13(4):654-669</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">28368777</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Nature. 2017 May 25;545(7655):505-509</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">28514442</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Hum Mol Genet. 2010 Jun 15;19(12):2395-408</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">20304780</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Nat Commun. 2017 Jun 12;8:15824</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">28604674</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Nat Rev Neurosci. 2019 Jan;20(1):34-48</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">30464208</ArticleId>
-                </ArticleIdList>
-            </Reference>
-            <Reference>
-                <Citation>Cell. 2017 Sep 7;170(6):1247-1257.e12</Citation>
-                <ArticleIdList>
-                    <ArticleId IdType="pubmed">28844695</ArticleId>
+                    <ArticleId IdType="pubmed">16322557</ArticleId>
                 </ArticleIdList>
             </Reference>
         </ReferenceList>

@@ -5,6 +5,6 @@
 xsltproc pubmed2bibtex.xsl publication.xml > publication.bib
 ~/anaconda3/bin/academic import --bibtex publication.bib --overwrite
 
-curl https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32596240&retmode=xml --output pmid.xml
+curl https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32641451,32639961&retmode=xml --output pmid.xml
 xsltproc pubmed2bibtex.xsl pmid.xml > pmid.bib
 ~/anaconda3/bin/academic import --bibtex pmid.bib --overwrite
